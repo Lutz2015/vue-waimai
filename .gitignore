@@ -3,9 +3,9 @@ node_modules/
 dist/
 npm-debug.log
 .idea/
-build/
-config/
+build
+config
 dist/
-src/
+src
 package.json
 yarn.lock
