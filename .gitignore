@@ -3,3 +3,9 @@ node_modules/
 dist/
 npm-debug.log
 .idea/
+build/
+config/
+dist/
+src/
+package.json
+yarn.lock
